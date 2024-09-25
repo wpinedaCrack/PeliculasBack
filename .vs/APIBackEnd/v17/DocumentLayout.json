@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UdemyFull\\Angular_Net_fullStack\\Back-End\\ApiBackEnd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B78250E3-4C6A-45F3-9056-1DF1DEE26D0B}|API\\API.csproj|d:\\udemyfull\\angular_net_fullstack\\back-end\\apibackend\\api\\controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B78250E3-4C6A-45F3-9056-1DF1DEE26D0B}|API\\API.csproj|solutionrelative:api\\controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF921EF-0198-4CEF-A80F-903C9E64043C}|Models\\Models.csproj|d:\\udemyfull\\angular_net_fullstack\\back-end\\apibackend\\models\\entidades\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BF921EF-0198-4CEF-A80F-903C9E64043C}|Models\\Models.csproj|solutionrelative:models\\entidades\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B78250E3-4C6A-45F3-9056-1DF1DEE26D0B}|API\\API.csproj|d:\\udemyfull\\angular_net_fullstack\\back-end\\apibackend\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B78250E3-4C6A-45F3-9056-1DF1DEE26D0B}|API\\API.csproj|solutionrelative:api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 193,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "API",
+              "DocumentMoniker": "D:\\UdemyFull\\Angular_Net_fullStack\\Back-End\\ApiBackEnd\\API\\API.csproj",
+              "RelativeDocumentMoniker": "API\\API.csproj",
+              "ToolTip": "D:\\UdemyFull\\Angular_Net_fullStack\\Back-End\\ApiBackEnd\\API\\API.csproj",
+              "RelativeToolTip": "API\\API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-25T02:22:13.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonaController.cs",
+              "DocumentMoniker": "D:\\UdemyFull\\Angular_Net_fullStack\\Back-End\\ApiBackEnd\\API\\Controllers\\PersonaController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\PersonaController.cs",
+              "ToolTip": "D:\\UdemyFull\\Angular_Net_fullStack\\Back-End\\ApiBackEnd\\API\\Controllers\\PersonaController.cs",
+              "RelativeToolTip": "API\\Controllers\\PersonaController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T00:58:29.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "D:\\UdemyFull\\Angular_Net_fullStack\\Back-End\\ApiBackEnd\\Models\\Entidades\\Empleado.cs",
+              "RelativeDocumentMoniker": "Models\\Entidades\\Empleado.cs",
+              "ToolTip": "D:\\UdemyFull\\Angular_Net_fullStack\\Back-End\\ApiBackEnd\\Models\\Entidades\\Empleado.cs",
+              "RelativeToolTip": "Models\\Entidades\\Empleado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T00:52:40.095Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
